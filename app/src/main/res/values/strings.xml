@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UIproject</string>
+    <string name="button_switch">Button(Open SwitchActivity)</string>
+    <string name="default_text">Fragment1 (Default)</string>
+    <string name="label_1">Label 1</string>
+    <string name="label_2">Label 2</string>
+    <string-array name="array_name">
+        <item>Example1</item>
+        <item>Example2</item>
+        <item>Example3</item>
+    </string-array>
+</resources>
